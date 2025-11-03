@@ -17,6 +17,7 @@ I enjoy building apps that are both functional and secure — from Flutter mobil
 Learning more about cloud deployment (Azure / AWS) and contributing to open-source projects.
 
 ### 📫 Contact
-[LinkedIn]((https://www.linkedin.com/in/vukasin-macic-24719b27a/)) • [Email](macicvukasin56@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vukasin-macic-24719b27a/) • [Email](mailto:macicvukasin56@gmail.com)
+
 
 
