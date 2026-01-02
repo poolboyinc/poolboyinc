@@ -8,6 +8,7 @@ I enjoy building apps that are both functional and secure — from Flutter mobil
 - **Interests:** Cryptography, Access Control, Web APIs, Secure App Design, All things .NET and Java
 
 ### 🧩 Highlighted Projects
+- 💰 **[Expense Tracker - Internship Project](https://github.com/poolboyinc/expense-tracker)** — An Backend Internship Project with Emailing and Budgeting features 
 - 🛡️ **[Secure File Storage](https://github.com/poolboyinc/securefilestorage)** — Cryptographically signed and encrypted file storage platform (Blazor + .NET) - **[deployed app](https://secure-file-frontend.netlify.app/)**
 - 🔐 **[Secure ABAC Demo](https://github.com/poolboyinc/secure-abac-demo)** — Attribute-Based Access Control demo using RSA-signed policy structures
 - 🎉 **[Find My Party (FMP)](https://github.com/poolboyinc/fmpglobalinc)** — Flutter-based full-stack app for event discovery and management
